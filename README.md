@@ -1,5 +1,5 @@
-# cSharp-password-generator
-cSharp command line password generator
+# cSharp-password-generator                                                                               
+cSharp command line password generator                                               
 Wordlist includes
 Uppercase English
 Lowercase English
